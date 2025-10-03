@@ -47,7 +47,7 @@ Su objetivo es ayudarte a organizar tareas, crear hábitos saludables, cuidar tu
 ## 🚀 Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/serenely.git
+   git clone https://github.com/ariespinedo/SerenelyApp.git
    ```
 2. Abrir en **Android Studio**.
 3. Sincronizar dependencias Gradle.
@@ -63,9 +63,9 @@ Su objetivo es ayudarte a organizar tareas, crear hábitos saludables, cuidar tu
 
 ## 👩‍💻 Autor
 Proyecto desarrollado como **Trabajo Final de FP DAM**.
-- Nombre: *[Tu nombre]*
+- Nombre: Ariana Espinedo Fernández
 - Año: 2025
-- GitHub: [@tuusuario](https://github.com/tuusuario)
+- GitHub: [@ariespinedo](https://github.com/ariespinedo)
 
 ---
 
